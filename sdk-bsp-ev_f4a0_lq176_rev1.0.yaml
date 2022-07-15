@@ -7,7 +7,7 @@ board:
   description_zh: N/A
   emulator_machine: ''
   large_image: documents/images/hc32f4a0.jpg
-  name: EV_F4A0_LQ176_REV1.0
+  name: XHSC_EV_F4A0_LQ176_REV1.0
   price_cn: N/A CNY
   price_global: N/A USD
   sale_contact_cn: N/A
@@ -76,5 +76,5 @@ template_projects:
   external_files: []
   project_description: HC32F4A0_Template
   project_name: HC32F4A0_Template
-  project_type: rt-thread|@full|@4.0.2
+  project_type: rt-thread|@full|@4.1.0
 yaml_version: 3
